@@ -1,0 +1,12 @@
+**Challenge 2 - Networking Concepts**
+he case scenario is - Help a Bank set- up a secure Networking environment that alows communication between resources and the internet
+
+Key Concepts Covered:
+ VPCS 
+ Subnets
+ Internet Gateway (IGW)
+ Route Tables
+ Bennfits of Uisng VPCs
+ Basics of CIDR block notation anf IP addressing 
+ Explain how traffic is routed and secured by using Gateway, Network Access Conrol Lists and Security Groups
+ 
