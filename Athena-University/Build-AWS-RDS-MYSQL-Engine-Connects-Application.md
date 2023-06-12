@@ -8,3 +8,6 @@ The nothing nes of doing nothing - I need to pull up my socks better
 
 AthenaAdmin
 Database Edpoint -athena-db.ckavf6ap0y1d.us-east-1.rds.amazonaws.com
+SM Reference ID
+"Name": "athena-SM", 
+    "ARN": "arn:aws:secretsmanager:us-east-1:504990961194:secret:athena-SM-v3dCLZ"
